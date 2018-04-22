@@ -1,0 +1,64 @@
+body{
+	background-color: #343a40;
+}
+nav{
+	background-color: #fff;
+}
+.navbar-header{
+	margin-left:50px;
+	margin-right: 50px;
+	color: #fff;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.nav .navbar-nav{
+	text-decoration: none;
+	color: #fff;
+}
+.carousel{
+	margin-top:40px;
+}
+img{
+	width: 100%;
+}
+.carousel-caption{
+	font-size: 50px;
+	color: #343a40;
+}
+
+.row {margin: 20px 20px;
+	padding: 20px;
+	font-size: 25px;
+	color: #343a40;	
+}
+.checkers a{
+	color: #fff;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a {
+	color:#343a40; 
+}
+footer {
+	position: relative;
+	bottom: 0;
+}
+
+.panel{
+	background-color: #fff;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.fa{
+	font-size: 20px;
+	padding: 20px
+}
+.integrate{
+	color: #343a40;
+}
